@@ -46,6 +46,11 @@ It is calculated as:
 
 
 # Program: 
+Name:Kamali V
+
+register no.:25012304
+
+slot no.:3P1-1
 ~~~
 import numpy as np 
  
@@ -84,6 +89,7 @@ print(f"The Mean arrival rate is {mean:.3f}")
 print(f"The Variance of arrival from feeder is {var:.3f}") 
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 ~~~
+https://colab.research.google.com/drive/12Kqmh4v2dLcmgamV6wh-oZSBWdAIdmmR?usp=sharing
 # Output:
 Enter arrival data: 6 6 6 6 6 8 7 9
 
